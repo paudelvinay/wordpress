@@ -1,5 +1,5 @@
 <?php 
-/* shortcode used to show  different special character/image as per the role
+/* shortcode to show  different special character/image as per the role
  * on 27th July 2020
 */
 add_shortcode('show_special_char','show_special_char');
